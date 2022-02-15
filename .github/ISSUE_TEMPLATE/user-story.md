@@ -1,10 +1,10 @@
 ---
 name: User Story
-about: View post list
-title: USER STORY <TITLE>
+about: Open a post
+title: ''
 labels: ''
 assignees: ''
 
 ---
 
-As a **Site User** I can **view a list of posts** so that **I can select one to read**
+As a **Site User** I can **click on a post** so that **I can read the full text**
